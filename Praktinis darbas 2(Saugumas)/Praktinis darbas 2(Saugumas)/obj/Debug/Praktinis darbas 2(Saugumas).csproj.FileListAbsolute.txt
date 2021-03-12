@@ -1,0 +1,10 @@
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\obj\Debug\Praktinis darbas 2(Saugumas).csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\obj\Debug\Praktinis_darbas_2_Saugumas_.Properties.Resources.resources
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\obj\Debug\Praktinis darbas 2(Saugumas).csproj.GenerateResource.cache
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\obj\Debug\Praktinis darbas 2(Saugumas).csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\bin\Debug\Praktinis darbas 2(Saugumas).exe.config
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\bin\Debug\Praktinis darbas 2(Saugumas).exe
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\bin\Debug\Praktinis darbas 2(Saugumas).pdb
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\obj\Debug\Praktinis_darbas_2_Saugumas_.Form1.resources
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\obj\Debug\Praktinis darbas 2(Saugumas).exe
+C:\Users\Jacob\Desktop\Praktinis darbas 2(Saugumas)\Praktinis darbas 2(Saugumas)\obj\Debug\Praktinis darbas 2(Saugumas).pdb
